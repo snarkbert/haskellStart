@@ -4,9 +4,8 @@ import Data.Binary (Binary(putList))
 names = [ ("Ian", "Curtis")
         , ("Bernard", "Sumner")
         , ("Peter", "Hook")
-        , ("Stephen", "Morris")]
-
-
+        , ("Stephen", "Morris")
+        , ("Snark", "Bert")]
 
 main :: IO ()
 main = do
